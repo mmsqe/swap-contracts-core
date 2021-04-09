@@ -1,6 +1,7 @@
 node_modules/
 build/*
 !build/CroDefiSwapFactory.json
+!build/CroDefiSwapPair.json
 cache/
 .env
 .idea/
